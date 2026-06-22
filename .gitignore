@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.pdf
+!sample_papers/*.pdf
+.streamlit/secrets.toml
+!.streamlit/secrets.toml.example
+.DS_Store
+*.egg-info/
