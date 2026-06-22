@@ -180,19 +180,14 @@ Generate literature reviews and identify future research opportunities.
 ```text
 ResearchMind-AI/
 │
-├── app.py
-├── requirements.txt
-├── README.md
-│
+├── .devcontainer/
+├── modules/
 ├── screenshots/
-│   ├── semantic_search.png
-│   ├── summaries.png
-│   ├── compare_papers.png
-│   └── literature_review.png
-│
-├── data/
-├── reports/
-└── assets/
+├── .env.example
+├── .gitignore
+├── README.md
+├── app.py
+└── requirements.txt
 ```
 
 ---
